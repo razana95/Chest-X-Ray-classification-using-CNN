@@ -30,3 +30,6 @@ This project focuses on developing an advanced deep learning model to accurately
 This project isn't just about technology; it's about transforming healthcare. By developing a powerful diagnostic tool, we've opened doors to real-world applications in the healthcare sector. This project underscores our strong proficiency in deep learning, image analysis, and the practical application of cutting-edge technologies to solve critical problems.
 
 **Note:** Consider incorporating this project description effectively into your resume. Keep it concise and align it with your overall resume format, emphasizing your skills, accomplishments, and the impact of this work.
+
+## Dataset Link : https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+
